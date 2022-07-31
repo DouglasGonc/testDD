@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+<head>
+	<title>Marketing website</title>
+
+	<link rel="icon" href="https://lh6.googleusercontent.com/rwbAt5iylsSfnoDrzYBIVguS3Y94z1NNhGYlwpdBQzLOhPOgrMr7MkTFc570B5yvlJGavav-OLsTW50DzVyQHrcNLWHepA1a05RK0JOaaPEZyg">
+
+	<link href="css/css" rel="stylesheet" nonce="">
+    <link href="css/css(1)" rel="stylesheet" nonce="">
+    <link rel="stylesheet" href="css/rs=AGEqA5mYTdHBSuN0d8oALZjyZsd0ssjh6g" data-id="_cl" nonce="">
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header id="atIdViewHeader">
+        <div class="BbxBP HP6J1d K5Zlne" jsname="WA9qLc" jscontroller="RQOkef" jsaction="rcuQ6b:JdcaS;MxH79b:JdcaS;VbOlFf:ywL4Jf;FaOgy:ywL4Jf; keydown:Hq2uPe; wheel:Ut4Ahc;" data-top-navigation="true" data-is-preview="false">
+            <div class="DXsoRd YTv4We Mz8gvb YSH9J" role="button" tabindex="0" jsaction="click:LUvzV" jsname="z4Tpl" id="s9iPrd" aria-haspopup="true" aria-controls="yuynLe" aria-expanded="false" title="Mostrar barra lateral"><svg class="wFCWne" viewBox="0 0 24 24" stroke="currentColor" jsname="B1n9ub" focusable="false">
+                    <g transform="translate(12,12)">
+                        <path class="hlJH0" d="M-9 -5 L9 -5" fill="none" stroke-width="2"></path>
+                        <path class="HBu6N" d="M-9 0 L9 0" fill="none" stroke-width="2"></path>
+                        <path class="cLAGQe" d="M-9 5 L9 5" fill="none" stroke-width="2"></path>
+                    </g>
+                </svg></div>
+            <nav class="JzO0Vc" jsname="ihoMLd" role="navigation" tabindex="-1" id="yuynLe" jsaction="transitionend:UD2r5" style="display: none;"><a class="XMyrgf" href="https://sites.google.com/deltaplus.fr/marketing-website/home"><img src="img/image.png" class="r9CsCb" role="img" aria-label="Página inicial do site"></a><a class="Zjiec oNsfjf" href="https://sites.google.com/deltaplus.fr/marketing-website/home"><span>Marketing website</span></a>
+                <ul class="jYxBte Fpy8Db" role="navigation" tabindex="-1">
+                    <li jsname="ibnC6b" data-nav-level="1">
+                        <div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf lhZOrc" aria-current="true">
+                            <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-selected="true" href="https://sites.google.com/deltaplus.fr/marketing-website/home" data-url="/deltaplus.fr/marketing-website/home" data-type="1" data-level="1">HOME</a></div>
+                        </div>
+                    </li>
+                    <li jsname="ibnC6b" data-nav-level="1">
+                        <div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf">
+                            <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                        <g transform="translate(9.7,12) rotate(45)">
+                                            <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                        </g>
+                                        <g transform="translate(14.3,12) rotate(-45)">
+                                            <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                        </g>
+                                    </svg></div><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication" data-url="/deltaplus.fr/marketing-website/by-communication" data-type="1" data-level="1">By communication</a>
+                            </div>
+                        </div>
+                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                            <ul class="VcS63b">
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                            <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                    <g transform="translate(9.7,12) rotate(45)">
+                                                        <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                    <g transform="translate(14.3,12) rotate(-45)">
+                                                        <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                </svg></div><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign" data-url="/deltaplus.fr/marketing-website/by-communication/campaign" data-type="1" data-level="2">CAMPAIGN</a>
+                                        </div>
+                                    </div>
+                                    <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                        <ul class="VcS63b">
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/mach2" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/mach2" data-type="1" data-level="3">MACH2</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/building" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/building" data-type="1" data-level="3">BUILDING</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/classic-industry" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/classic-industry" data-type="1" data-level="3">CLASSIC INDUSTRY</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/boots" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/boots" data-type="1" data-level="3">BOOTS</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/fall-winter-2021-22" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/fall-winter-2021-22" data-type="1" data-level="3">FALL WINTER 2021-22</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/diamond-vi" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/diamond-vi" data-type="1" data-level="3">DIAMOND VI</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/corporate-action" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/corporate-action" data-type="1" data-level="3">CORPORATE ACTION</a></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/collaborators-branding" data-url="/deltaplus.fr/marketing-website/by-communication/collaborators-branding" data-type="1" data-level="2">COLLABORATORS BRANDING</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/corporate-communication" data-url="/deltaplus.fr/marketing-website/by-communication/corporate-communication" data-type="1" data-level="2">CORPORATE COMMUNICATION</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                            <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                    <g transform="translate(9.7,12) rotate(45)">
+                                                        <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                    <g transform="translate(14.3,12) rotate(-45)">
+                                                        <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                </svg></div><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising" data-type="1" data-level="2">MERCHANDISING</a>
+                                        </div>
+                                    </div>
+                                    <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                        <ul class="VcS63b">
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/merchandising-strategy" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/merchandising-strategy" data-type="1" data-level="3">Merchandising Strategy</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/launch-pack-merchandising" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/launch-pack-merchandising" data-type="1" data-level="3">Launch Pack Merchandising</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/picture-gallery" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/picture-gallery" data-type="1" data-level="3">Picture Gallery</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/shop-in-shop-corner" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/shop-in-shop-corner" data-type="1" data-level="3">Shop In Shop Corner</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/indicators" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/indicators" data-type="1" data-level="3">Indicators</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/displays" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/displays" data-type="1" data-level="3">DISPLAYS</a></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li jsname="ibnC6b" data-nav-level="1">
+                        <div class="PsKE7e r8s4j-R6PoUb IKA38e baH5ib oNsfjf">
+                            <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                        <g transform="translate(9.7,12) rotate(45)">
+                                            <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                        </g>
+                                        <g transform="translate(14.3,12) rotate(-45)">
+                                            <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                        </g>
+                                    </svg></div><a class="aJHbb dk90Ob hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support" data-url="/deltaplus.fr/marketing-website/by-support" data-type="1" data-level="1">By support</a>
+                            </div>
+                        </div>
+                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                            <ul class="VcS63b">
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/videos" data-url="/deltaplus.fr/marketing-website/by-support/videos" data-type="1" data-level="2">VIDEOS</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                            <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                    <g transform="translate(9.7,12) rotate(45)">
+                                                        <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                    <g transform="translate(14.3,12) rotate(-45)">
+                                                        <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                </svg></div><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet" data-type="1" data-level="2">CATALOGUE &amp; LEAFLET</a>
+                                        </div>
+                                    </div>
+                                    <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                        <ul class="VcS63b">
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/head" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/head" data-type="1" data-level="3">Head</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/hand" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/hand" data-type="1" data-level="3">Hand</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/body" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/body" data-type="1" data-level="3">Body</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/foot" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/foot" data-type="1" data-level="3">Foot</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/fall-arrest" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/fall-arrest" data-type="1" data-level="3">Fall arrest</a></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/posters" data-url="/deltaplus.fr/marketing-website/by-support/posters" data-type="1" data-level="2">POSTERS</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/pictures" data-url="/deltaplus.fr/marketing-website/by-support/pictures" data-type="1" data-level="2">PICTURES</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/in-store-marketing-tools" data-url="/deltaplus.fr/marketing-website/by-support/in-store-marketing-tools" data-type="1" data-level="2">IN-STORE MARKETING TOOLS</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/pricelist" data-url="/deltaplus.fr/marketing-website/by-support/pricelist" data-type="1" data-level="2">PRICELIST</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/customer-rewards" data-url="/deltaplus.fr/marketing-website/by-support/customer-rewards" data-type="1" data-level="2">CUSTOMER REWARDS</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/stand" data-url="/deltaplus.fr/marketing-website/by-support/stand" data-type="1" data-level="2">STAND</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/standardization" data-url="/deltaplus.fr/marketing-website/by-support/standardization" data-type="1" data-level="2">STANDARDIZATION</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/brandbook" data-url="/deltaplus.fr/marketing-website/by-support/brandbook" data-type="1" data-level="2">BRANDBOOK</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                            <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                    <g transform="translate(9.7,12) rotate(45)">
+                                                        <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                    <g transform="translate(14.3,12) rotate(-45)">
+                                                        <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                </svg></div><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack" data-type="1" data-level="2">LAUNCH PACK</a>
+                                        </div>
+                                    </div>
+                                    <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                        <ul class="VcS63b">
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/head-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/head-lp" data-type="1" data-level="3">Head LP</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/hand-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/hand-lp" data-type="1" data-level="3">Hand LP</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/body-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/body-lp" data-type="1" data-level="3">Body LP</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/foot-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/foot-lp" data-type="1" data-level="3">Foot LP</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/fall-arrest-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/fall-arrest-lp" data-type="1" data-level="3">Fall Arrest LP</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/non-woven-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/non-woven-lp" data-type="1" data-level="3">NON WOVEN LP</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/marketing-tools-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/marketing-tools-lp" data-type="1" data-level="3">Marketing tools LP</a></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/media-planning" data-url="/deltaplus.fr/marketing-website/by-support/media-planning" data-type="1" data-level="2">MEDIA PLANNING</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);">
+                                            <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                    <g transform="translate(9.7,12) rotate(45)">
+                                                        <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                    <g transform="translate(14.3,12) rotate(-45)">
+                                                        <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                    </g>
+                                                </svg></div><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation" data-type="1" data-level="2">PROJECT PRESENTATION</a>
+                                        </div>
+                                    </div>
+                                    <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                        <ul class="VcS63b">
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/head-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/head-project-presentation" data-type="1" data-level="3">HEAD project presentation</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/hand-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/hand-project-presentation" data-type="1" data-level="3">HAND project presentation</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/body-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/body-project-presentation" data-type="1" data-level="3">BODY project presentation</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/shoes-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/shoes-project-presentation" data-type="1" data-level="3">SHOES project presentation</a></div>
+                                                </div>
+                                            </li>
+                                            <li jsname="ibnC6b" data-nav-level="3">
+                                                <div class="PsKE7e r8s4j-c5RTEf IKA38e baH5ib oNsfjf">
+                                                    <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/fall-arrest-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/fall-arrest-project-presentation" data-type="1" data-level="3">FALL ARREST project presentation</a></div>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/social-media" data-url="/deltaplus.fr/marketing-website/by-support/social-media" data-type="1" data-level="2">SOCIAL MEDIA</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/mcd" data-url="/deltaplus.fr/marketing-website/by-support/mcd" data-type="1" data-level="2">MCD</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/go-to-market" data-url="/deltaplus.fr/marketing-website/by-support/go-to-market" data-type="1" data-level="2">GO TO MARKET</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/training" data-url="/deltaplus.fr/marketing-website/by-support/training" data-type="1" data-level="2">TRAINING</a></div>
+                                    </div>
+                                </li>
+                                <li jsname="ibnC6b" data-nav-level="2">
+                                    <div class="PsKE7e r8s4j-ibL1re IKA38e baH5ib oNsfjf">
+                                        <div class="I35ICb" jsaction="keydown:mPuKz(QwLHlb); click:vHQTA(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/press-review" data-url="/deltaplus.fr/marketing-website/by-support/press-review" data-type="1" data-level="2">PRESS REVIEW</a></div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+            <div class="VLoccc K5Zlne QDWEj U8eYrb" jsname="rtFGi" aria-hidden="false">
+                <div class="Pvc6xe">
+                    <div jsname="I8J07e" class="TlfmSc YSH9J"><a class="GAuSPc" jsname="jIujaf" href="https://sites.google.com/deltaplus.fr/marketing-website/home" aria-hidden="false" tabindex="0"><img src="./Marketing website_files/image.png" class="lzy1Td" role="img" aria-label="Página inicial do site" jsname="SwcDWb"><span class="QTKDff p46B7e">Marketing website</span></a></div>
+                    <nav class="plFg0c" jscontroller="HXO1uc" jsaction="rcuQ6b:rcuQ6b;MxH79b:CfS0pe;" id="WDxLfe" data-is-preview="false" style="visibility: visible;" role="navigation" tabindex="-1">
+                        <ul jsname="waIgnc" class="K1Ci7d oXBWEc jYxBte">
+                            <li jsname="ibnC6b" data-nav-level="1" class="VsJjtf">
+                                <div class="PsKE7e qV4dIc Qrrb5 YSH9J M9vuGd" aria-current="true">
+                                    <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-selected="true" href="https://sites.google.com/deltaplus.fr/marketing-website/home" data-url="/deltaplus.fr/marketing-website/home" data-type="1" data-level="1" style="">HOME</a></div>
+                                </div>
+                                <div class="rgLkl"></div>
+                            </li>
+                            <li jsname="ibnC6b" data-nav-level="1" class="VsJjtf" jsaction="mouseenter:Vx8Jlb; mouseleave:ysDRUd">
+                                <div class="PsKE7e qV4dIc Qrrb5 YSH9J">
+                                    <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication" data-url="/deltaplus.fr/marketing-website/by-communication" data-type="1" data-level="1" style="">By communication</a>
+                                        <div class="mBHtvb u5fiyc" role="presentation" title="Expandir/recolher" jsaction="click:oESVTe" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                <g transform="translate(9.7,12) rotate(45)">
+                                                    <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                </g>
+                                                <g transform="translate(14.3,12) rotate(-45)">
+                                                    <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                </g>
+                                            </svg></div>
+                                    </div>
+                                </div>
+                                <div class="rgLkl"></div>
+                                <div class="oGuwee eWDljc RPRy1e Mkt3Tc" style="display: none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                    <ul class="VcS63b">
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign" data-url="/deltaplus.fr/marketing-website/by-communication/campaign" data-type="1" data-level="2" style="">CAMPAIGN</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/mach2" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/mach2" data-type="1" data-level="3" style="">MACH2</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/building" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/building" data-type="1" data-level="3" style="">BUILDING</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/classic-industry" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/classic-industry" data-type="1" data-level="3" style="">CLASSIC INDUSTRY</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/boots" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/boots" data-type="1" data-level="3" style="">BOOTS</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/fall-winter-2021-22" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/fall-winter-2021-22" data-type="1" data-level="3" style="">FALL WINTER 2021-22</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/diamond-vi" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/diamond-vi" data-type="1" data-level="3" style="">DIAMOND VI</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/corporate-action" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/corporate-action" data-type="1" data-level="3" style="">CORPORATE ACTION</a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/collaborators-branding" data-url="/deltaplus.fr/marketing-website/by-communication/collaborators-branding" data-type="1" data-level="2" style="">COLLABORATORS BRANDING</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/corporate-communication" data-url="/deltaplus.fr/marketing-website/by-communication/corporate-communication" data-type="1" data-level="2" style="">CORPORATE COMMUNICATION</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising" data-type="1" data-level="2" style="">MERCHANDISING</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/merchandising-strategy" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/merchandising-strategy" data-type="1" data-level="3" style="">Merchandising Strategy</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/launch-pack-merchandising" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/launch-pack-merchandising" data-type="1" data-level="3" style="">Launch Pack Merchandising</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/picture-gallery" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/picture-gallery" data-type="1" data-level="3" style="">Picture Gallery</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/shop-in-shop-corner" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/shop-in-shop-corner" data-type="1" data-level="3" style="">Shop In Shop Corner</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/indicators" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/indicators" data-type="1" data-level="3" style="">Indicators</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/displays" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/displays" data-type="1" data-level="3" style="">DISPLAYS</a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li jsname="ibnC6b" data-nav-level="1" class="VsJjtf" jsaction="mouseenter:Vx8Jlb; mouseleave:ysDRUd">
+                                <div class="PsKE7e qV4dIc Qrrb5 YSH9J">
+                                    <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support" data-url="/deltaplus.fr/marketing-website/by-support" data-type="1" data-level="1" style="">By support</a>
+                                        <div class="mBHtvb u5fiyc" role="presentation" title="Expandir/recolher" jsaction="click:oESVTe" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                <g transform="translate(9.7,12) rotate(45)">
+                                                    <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                </g>
+                                                <g transform="translate(14.3,12) rotate(-45)">
+                                                    <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                </g>
+                                            </svg></div>
+                                    </div>
+                                </div>
+                                <div class="rgLkl"></div>
+                                <div class="oGuwee eWDljc RPRy1e Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                    <ul class="VcS63b">
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/videos" data-url="/deltaplus.fr/marketing-website/by-support/videos" data-type="1" data-level="2" style="">VIDEOS</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet" data-type="1" data-level="2" style="">CATALOGUE &amp; LEAFLET</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/head" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/head" data-type="1" data-level="3" style="">Head</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/hand" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/hand" data-type="1" data-level="3" style="">Hand</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/body" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/body" data-type="1" data-level="3" style="">Body</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/foot" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/foot" data-type="1" data-level="3" style="">Foot</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/fall-arrest" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/fall-arrest" data-type="1" data-level="3" style="">Fall arrest</a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/posters" data-url="/deltaplus.fr/marketing-website/by-support/posters" data-type="1" data-level="2" style="">POSTERS</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/pictures" data-url="/deltaplus.fr/marketing-website/by-support/pictures" data-type="1" data-level="2" style="">PICTURES</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/in-store-marketing-tools" data-url="/deltaplus.fr/marketing-website/by-support/in-store-marketing-tools" data-type="1" data-level="2" style="">IN-STORE MARKETING TOOLS</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/pricelist" data-url="/deltaplus.fr/marketing-website/by-support/pricelist" data-type="1" data-level="2" style="">PRICELIST</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/customer-rewards" data-url="/deltaplus.fr/marketing-website/by-support/customer-rewards" data-type="1" data-level="2" style="">CUSTOMER REWARDS</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/stand" data-url="/deltaplus.fr/marketing-website/by-support/stand" data-type="1" data-level="2" style="">STAND</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/standardization" data-url="/deltaplus.fr/marketing-website/by-support/standardization" data-type="1" data-level="2" style="">STANDARDIZATION</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/brandbook" data-url="/deltaplus.fr/marketing-website/by-support/brandbook" data-type="1" data-level="2" style="">BRANDBOOK</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack" data-type="1" data-level="2" style="">LAUNCH PACK</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/head-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/head-lp" data-type="1" data-level="3" style="">Head LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/hand-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/hand-lp" data-type="1" data-level="3" style="">Hand LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/body-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/body-lp" data-type="1" data-level="3" style="">Body LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/foot-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/foot-lp" data-type="1" data-level="3" style="">Foot LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/fall-arrest-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/fall-arrest-lp" data-type="1" data-level="3" style="">Fall Arrest LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/non-woven-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/non-woven-lp" data-type="1" data-level="3" style="">NON WOVEN LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/marketing-tools-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/marketing-tools-lp" data-type="1" data-level="3" style="">Marketing tools LP</a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/media-planning" data-url="/deltaplus.fr/marketing-website/by-support/media-planning" data-type="1" data-level="2" style="">MEDIA PLANNING</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation" data-type="1" data-level="2" style="">PROJECT PRESENTATION</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/head-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/head-project-presentation" data-type="1" data-level="3" style="">HEAD project presentation</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/hand-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/hand-project-presentation" data-type="1" data-level="3" style="">HAND project presentation</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/body-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/body-project-presentation" data-type="1" data-level="3" style="">BODY project presentation</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/shoes-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/shoes-project-presentation" data-type="1" data-level="3" style="">SHOES project presentation</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi ">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/fall-arrest-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/fall-arrest-project-presentation" data-type="1" data-level="3" style="">FALL ARREST project presentation</a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/social-media" data-url="/deltaplus.fr/marketing-website/by-support/social-media" data-type="1" data-level="2" style="">SOCIAL MEDIA</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/mcd" data-url="/deltaplus.fr/marketing-website/by-support/mcd" data-type="1" data-level="2" style="">MCD</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/go-to-market" data-url="/deltaplus.fr/marketing-website/by-support/go-to-market" data-type="1" data-level="2" style="">GO TO MARKET</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/training" data-url="/deltaplus.fr/marketing-website/by-support/training" data-type="1" data-level="2" style="">TRAINING</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/press-review" data-url="/deltaplus.fr/marketing-website/by-support/press-review" data-type="1" data-level="2" style="">PRESS REVIEW</a></div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li jsname="ibnC6b" data-nav-level="1" class="VsJjtf ZmrVpf oXBWEc" more-menu-item="" jsaction="mouseenter:Vx8Jlb; mouseleave:ysDRUd" aria-hidden="true" style="display: none;">
+                                <div class="PsKE7e qV4dIc Qrrb5 YSH9J">
+                                    <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb dk90Ob jgXgSe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" data-level="1" style="">Mais</a>
+                                        <div class="mBHtvb u5fiyc" role="presentation" title="Expandir/recolher" jsaction="click:oESVTe" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" stroke="currentColor" jsname="HIH2V" focusable="false">
+                                                <g transform="translate(9.7,12) rotate(45)">
+                                                    <path class="K4B8Y" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                </g>
+                                                <g transform="translate(14.3,12) rotate(-45)">
+                                                    <path class="MrYMx" d="M-4.2 0 L4.2 0" stroke-width="2"></path>
+                                                </g>
+                                            </svg></div>
+                                    </div>
+                                </div>
+                                <div class="oGuwee eWDljc RPRy1e Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                    <ul class="VcS63b">
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item="">
+                                            <div class="PsKE7e IKA38e oNsfjf lhZOrc" aria-current="true">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-selected="true" href="https://sites.google.com/deltaplus.fr/marketing-website/home" data-url="/deltaplus.fr/marketing-website/home" data-type="1" data-in-more-submenu="true" data-level="2" style="">HOME</a></div>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item="">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication" data-url="/deltaplus.fr/marketing-website/by-communication" data-type="1" data-in-more-submenu="true" data-level="2" style="">By communication</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                                        <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                                        <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                                        <path d="M0 0h24v24H0z" fill="none"></path>
+                                                                    </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign" data-url="/deltaplus.fr/marketing-website/by-communication/campaign" data-type="1" data-in-more-submenu="true" data-level="3" style="">CAMPAIGN</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                            <ul class="VcS63b">
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/mach2" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/mach2" data-type="1" data-in-more-submenu="true" data-level="4" style="">MACH2</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/building" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/building" data-type="1" data-in-more-submenu="true" data-level="4" style="">BUILDING</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/classic-industry" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/classic-industry" data-type="1" data-in-more-submenu="true" data-level="4" style="">CLASSIC INDUSTRY</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/boots" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/boots" data-type="1" data-in-more-submenu="true" data-level="4" style="">BOOTS</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/fall-winter-2021-22" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/fall-winter-2021-22" data-type="1" data-in-more-submenu="true" data-level="4" style="">FALL WINTER 2021-22</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/diamond-vi" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/diamond-vi" data-type="1" data-in-more-submenu="true" data-level="4" style="">DIAMOND VI</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/campaign/corporate-action" data-url="/deltaplus.fr/marketing-website/by-communication/campaign/corporate-action" data-type="1" data-in-more-submenu="true" data-level="4" style="">CORPORATE ACTION</a></div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/collaborators-branding" data-url="/deltaplus.fr/marketing-website/by-communication/collaborators-branding" data-type="1" data-in-more-submenu="true" data-level="3" style="">COLLABORATORS BRANDING</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/corporate-communication" data-url="/deltaplus.fr/marketing-website/by-communication/corporate-communication" data-type="1" data-in-more-submenu="true" data-level="3" style="">CORPORATE COMMUNICATION</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                                        <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                                        <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                                        <path d="M0 0h24v24H0z" fill="none"></path>
+                                                                    </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising" data-type="1" data-in-more-submenu="true" data-level="3" style="">MERCHANDISING</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                            <ul class="VcS63b">
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/merchandising-strategy" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/merchandising-strategy" data-type="1" data-in-more-submenu="true" data-level="4" style="">Merchandising Strategy</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/launch-pack-merchandising" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/launch-pack-merchandising" data-type="1" data-in-more-submenu="true" data-level="4" style="">Launch Pack Merchandising</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/picture-gallery" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/picture-gallery" data-type="1" data-in-more-submenu="true" data-level="4" style="">Picture Gallery</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/shop-in-shop-corner" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/shop-in-shop-corner" data-type="1" data-in-more-submenu="true" data-level="4" style="">Shop In Shop Corner</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/indicators" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/indicators" data-type="1" data-in-more-submenu="true" data-level="4" style="">Indicators</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-communication/merchandising/displays" data-url="/deltaplus.fr/marketing-website/by-communication/merchandising/displays" data-type="1" data-in-more-submenu="true" data-level="4" style="">DISPLAYS</a></div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li jsname="ibnC6b" data-nav-level="2" class="ijMPi ZmrVpf" in-more-item="">
+                                            <div class="PsKE7e IKA38e oNsfjf">
+                                                <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                    <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                            <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                            <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                                        </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support" data-url="/deltaplus.fr/marketing-website/by-support" data-type="1" data-in-more-submenu="true" data-level="2" style="">By support</a>
+                                                </div>
+                                            </div>
+                                            <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                <ul class="VcS63b">
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/videos" data-url="/deltaplus.fr/marketing-website/by-support/videos" data-type="1" data-in-more-submenu="true" data-level="3" style="">VIDEOS</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                                        <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                                        <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                                        <path d="M0 0h24v24H0z" fill="none"></path>
+                                                                    </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet" data-type="1" data-in-more-submenu="true" data-level="3" style="">CATALOGUE &amp; LEAFLET</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                            <ul class="VcS63b">
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/head" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/head" data-type="1" data-in-more-submenu="true" data-level="4" style="">Head</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/hand" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/hand" data-type="1" data-in-more-submenu="true" data-level="4" style="">Hand</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/body" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/body" data-type="1" data-in-more-submenu="true" data-level="4" style="">Body</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/foot" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/foot" data-type="1" data-in-more-submenu="true" data-level="4" style="">Foot</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/fall-arrest" data-url="/deltaplus.fr/marketing-website/by-support/catalogue-leaflet/fall-arrest" data-type="1" data-in-more-submenu="true" data-level="4" style="">Fall arrest</a></div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/posters" data-url="/deltaplus.fr/marketing-website/by-support/posters" data-type="1" data-in-more-submenu="true" data-level="3" style="">POSTERS</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/pictures" data-url="/deltaplus.fr/marketing-website/by-support/pictures" data-type="1" data-in-more-submenu="true" data-level="3" style="">PICTURES</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/in-store-marketing-tools" data-url="/deltaplus.fr/marketing-website/by-support/in-store-marketing-tools" data-type="1" data-in-more-submenu="true" data-level="3" style="">IN-STORE MARKETING TOOLS</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/pricelist" data-url="/deltaplus.fr/marketing-website/by-support/pricelist" data-type="1" data-in-more-submenu="true" data-level="3" style="">PRICELIST</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/customer-rewards" data-url="/deltaplus.fr/marketing-website/by-support/customer-rewards" data-type="1" data-in-more-submenu="true" data-level="3" style="">CUSTOMER REWARDS</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/stand" data-url="/deltaplus.fr/marketing-website/by-support/stand" data-type="1" data-in-more-submenu="true" data-level="3" style="">STAND</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/standardization" data-url="/deltaplus.fr/marketing-website/by-support/standardization" data-type="1" data-in-more-submenu="true" data-level="3" style="">STANDARDIZATION</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/brandbook" data-url="/deltaplus.fr/marketing-website/by-support/brandbook" data-type="1" data-in-more-submenu="true" data-level="3" style="">BRANDBOOK</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                                        <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                                        <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                                        <path d="M0 0h24v24H0z" fill="none"></path>
+                                                                    </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack" data-type="1" data-in-more-submenu="true" data-level="3" style="">LAUNCH PACK</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                            <ul class="VcS63b">
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/head-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/head-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">Head LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/hand-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/hand-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">Hand LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/body-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/body-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">Body LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/foot-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/foot-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">Foot LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/fall-arrest-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/fall-arrest-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">Fall Arrest LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/non-woven-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/non-woven-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">NON WOVEN LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/launch-pack/marketing-tools-lp" data-url="/deltaplus.fr/marketing-website/by-support/launch-pack/marketing-tools-lp" data-type="1" data-in-more-submenu="true" data-level="4" style="">Marketing tools LP</a></div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/media-planning" data-url="/deltaplus.fr/marketing-website/by-support/media-planning" data-type="1" data-in-more-submenu="true" data-level="3" style="">MEDIA PLANNING</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);">
+                                                                <div class="j10yRb" role="presentation" title="Expandir/recolher" jsaction="click:Ptdedd" jsname="ix0Hvc"><svg class="dvmRw" viewBox="0 0 24 24" jsname="HIH2V" focusable="false">
+                                                                        <path d="M7 10l5 5 5-5z" fill="currentColor"></path>
+                                                                        <path d="M4 4h16v16H4z" fill="none" stroke="currentColor"></path>
+                                                                        <path d="M0 0h24v24H0z" fill="none"></path>
+                                                                    </svg></div><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" aria-expanded="false" aria-haspopup="true" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation" data-type="1" data-in-more-submenu="true" data-level="3" style="">PROJECT PRESENTATION</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="oGuwee Mkt3Tc" style="display:none;" jsname="QXE97" jsaction="transitionend:SJBdh" role="group">
+                                                            <ul class="VcS63b">
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/head-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/head-project-presentation" data-type="1" data-in-more-submenu="true" data-level="4" style="">HEAD project presentation</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/hand-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/hand-project-presentation" data-type="1" data-in-more-submenu="true" data-level="4" style="">HAND project presentation</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/body-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/body-project-presentation" data-type="1" data-in-more-submenu="true" data-level="4" style="">BODY project presentation</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/shoes-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/shoes-project-presentation" data-type="1" data-in-more-submenu="true" data-level="4" style="">SHOES project presentation</a></div>
+                                                                    </div>
+                                                                </li>
+                                                                <li jsname="ibnC6b" data-nav-level="4" class="ijMPi " in-more-item="">
+                                                                    <div class="PsKE7e IKA38e oNsfjf">
+                                                                        <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/project-presentation/fall-arrest-project-presentation" data-url="/deltaplus.fr/marketing-website/by-support/project-presentation/fall-arrest-project-presentation" data-type="1" data-in-more-submenu="true" data-level="4" style="">FALL ARREST project presentation</a></div>
+                                                                    </div>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/social-media" data-url="/deltaplus.fr/marketing-website/by-support/social-media" data-type="1" data-in-more-submenu="true" data-level="3" style="">SOCIAL MEDIA</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/mcd" data-url="/deltaplus.fr/marketing-website/by-support/mcd" data-type="1" data-in-more-submenu="true" data-level="3" style="">MCD</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/go-to-market" data-url="/deltaplus.fr/marketing-website/by-support/go-to-market" data-type="1" data-in-more-submenu="true" data-level="3" style="">GO TO MARKET</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/training" data-url="/deltaplus.fr/marketing-website/by-support/training" data-type="1" data-in-more-submenu="true" data-level="3" style="">TRAINING</a></div>
+                                                        </div>
+                                                    </li>
+                                                    <li jsname="ibnC6b" data-nav-level="3" class="ijMPi " in-more-item="">
+                                                        <div class="PsKE7e IKA38e oNsfjf">
+                                                            <div class="I35ICb" jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"><a class="aJHbb hDrhEe HlqNPb" jscontroller="yUHiM" jsaction="rcuQ6b:WYd;" jsname="QwLHlb" role="link" tabindex="0" data-navtype="1" href="https://sites.google.com/deltaplus.fr/marketing-website/by-support/press-review" data-url="/deltaplus.fr/marketing-website/by-support/press-review" data-type="1" data-in-more-submenu="true" data-level="3" style="">PRESS REVIEW</a></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div jscontroller="gK4msf" class="RBEWZc" jsname="h04Zod" jsaction="rcuQ6b:WYd;JIbuQc:AT95Ub;VbOlFf:HgE5D;FaOgy:HgE5D;MxH79b:JdcaS;" data-side-navigation="false">
+                        <div role="button" class="U26fgb mUbCce fKz7Od iWs3gf Wdnjke M9Bg4d" jscontroller="VXdfxd" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue; focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventMouseEvents=true|preventDefault=true); touchcancel:JMtRjd;" jsshadow="" jsname="R9oOZd" aria-label="Abrir barra de pesquisa" aria-disabled="false" tabindex="0" data-tooltip="Abrir barra de pesquisa" aria-expanded="false" data-tooltip-vertical-offset="-12" data-tooltip-horizontal-offset="0">
+                            <div class="VTBa7b MbhUzd" jsname="ksKsZd"></div><span jsslot="" class="xjKiLb"><span class="Ce1Y1c" style="top: -12px"><svg class="vu8Pwe tCHXDc YSH9J" viewBox="0 0 24 24" focusable="false">
+                                        <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+                                        <path d="M0 0h24v24H0z" fill="none"></path>
+                                    </svg></span></span>
+                        </div>
+                    </div>
+                </div>
+                <div jsname="mADGA" class="zDUgLc"></div>
+            </div>
+            <div class="TxnWlb" jsname="BDdyze" jsaction="click:LUvzV"></div>
+        </div>
+    </header>
+
+
+
+    <footer>
+    	<script async="" src="js" nonce=""></script>
+
+	    <script nonce="">
+	        window.dataLayer = window.dataLayer || [];
+	        function gtag() { dataLayer.push(arguments); }
+	        gtag('js', new Date()); gtag('set', 'developer_id.dZWRiYj', true); gtag('config', 'G-6QZB91FYTW');</script>
+	    <script nonce="">const imageUrl = 'https:\/\/lh5.googleusercontent.com\/wm4-GsMhAEKecyrXHM4PpLc9Y-WiFC-g2phGMloh1oAb5pFmqEM7I4cYxahZi99Cs9zxb-ToHZfeeS44Igronkk\x3dw16383';
+	        function bgImgLoaded() {
+	            if (!globals.headerBgImgLoaded) {
+	                globals.headerBgImgLoaded = new Date().getTime();
+	            } else {
+	                globals.headerBgImgLoaded();
+	            }
+	        }
+	        if (imageUrl) {
+	            const img = new Image();
+	            img.src = imageUrl;
+	            img.onload = bgImgLoaded;
+	            globals.headerBgImgExists = true;
+	        } else {
+	            globals.headerBgImgExists = false;
+	        }
+	    </script>
+
+	    <script nonce="">DOCS_timing['cov'] = new Date().getTime();</script>
+           <script src="m=view" id="base-js" nonce=""></script>
+    </footer>
+</body>
+</html>
